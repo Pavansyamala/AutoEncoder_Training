@@ -18,3 +18,4 @@ This is a simple implementation of an AutoEncoder in Python without using the bu
   
   transform_data(self, data) : Transform input data using the trained AutoEncoder. 
 
+![images](https://github.com/Pavansyamala/AutoEncoder_Training/assets/123885609/4355b8e6-3f61-4138-b259-c9d717646967)
